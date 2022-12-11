@@ -173,7 +173,6 @@ statsmodels==0.13.2
 streamlit==1.15.2
 streamlit-drawable-canvas==0.9.2
 style==1.1.0
-swig==0.1.0
 sympy==1.10
 tabulate==0.8.9
 tensorboard==2.11.0
