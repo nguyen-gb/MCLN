@@ -12,7 +12,6 @@ beautifulsoup4==4.11.1
 black==22.1.0
 bleach==4.1.0
 blinker==1.5
-Box2D @ file:///C:/Users/HP/AppData/Local/Programs/Python/Python39/Box2D-2.3.10-cp39-cp39-win_amd64.whl
 branca==0.6.0
 bs4==0.0.1
 cachelib==0.9.0
